@@ -28,7 +28,7 @@ The project uses the following NuGet packages:
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/opazenha/csharp-autogen.git
    ```
 
 2. Navigate to the project directory:
@@ -56,11 +56,3 @@ dotnet run
 ```
 
 The API will be available at `https://localhost:5037/api/trivia/question`.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
