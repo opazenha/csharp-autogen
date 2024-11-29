@@ -1,0 +1,6 @@
+@BiblicalTriviaApi_HostAddress = http://localhost:5037
+
+GET {{BiblicalTriviaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
